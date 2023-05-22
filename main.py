@@ -4,7 +4,7 @@ import copy
 def clear_console():
     print("\033c", end="")  # ANSI escape sequence to clear the console
 
-gameDataArray = [[4,2,4,2],[2,4,2,4],[4,2,4,2],[2,4,0,4]]
+gameDataArray = [[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]
 start = 0
 yes="Y"
 no="N"
