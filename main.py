@@ -1,7 +1,7 @@
 import random
 import copy
 
-gameDataArray = [[0,0,0,0],[0,0,0,0],[0,0,2048,0],[0,0,0,0]]
+gameDataArray = [[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]
 start = 0
 yes="Y"
 no="N"
